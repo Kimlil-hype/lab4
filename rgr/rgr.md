@@ -69,7 +69,7 @@ func BenchmarkPostfixToInfix(b *testing.B) {
 
 На графіку це виглядатиме так:
 
-![Graph1](https://github.com/Kimlil-hype/lab4/blob/main/rgr/desc/lab2/graph1.jpg)
+![Graph1](https://github.com/Kimlil-hype/lab4/blob/master/rgr/desc/lab2/graph1.jpg)
 
 Існують точки у яких помітно, що наступне значення може бути меншим за попереднє, що обумовлено додатковим навантаженням на обчислювальні ресурси, але в цілому графік іде прямолінійно вгору
 
@@ -100,7 +100,7 @@ func BenchmarkPostfixToInfix(b *testing.B) {
 який відображується у полі totalDiskSpace має збільшитися на об’єм
 вказаного диска. 
 
-![Graph2](https://github.com/Kimlil-hype/lab4/blob/main/rgr/desc/lab3/photo1.jpg)
+![Graph2](https://github.com/Kimlil-hype/lab4/blob/master/rgr/desc/lab3/photo1.jpg)
 
 ---
 
@@ -144,11 +144,11 @@ func BenchmarkParser(b *testing.B) {
 
 Графік по точкам: 
 
-![Graph3](https://github.com/Kimlil-hype/lab4/blob/main/rgr/desc/lab4/graph2.jpg)
+![Graph3](https://github.com/Kimlil-hype/lab4/blob/master/rgr/desc/lab4/graph2.jpg)
 
 Діаграма показує взаємодію сутностей в нашій системі між собою 
 
-![Graph4](https://github.com/Kimlil-hype/lab4/blob/main/rgr/desc/lab4/Parser.png)
+![Graph4](https://github.com/Kimlil-hype/lab4/blob/master/rgr/desc/lab4/Parser.png)
 
 
 
